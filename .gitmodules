@@ -1,0 +1,6 @@
+[submodule "Libs/poppler"]
+	path = Libs/poppler
+	url = https://anongit.freedesktop.org/git/poppler/poppler.git
+[submodule "Libs/nlohmann/json"]
+	path = Libs/nlohmann/json
+	url = https://github.com/nlohmann/json.git
